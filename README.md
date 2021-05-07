@@ -16,7 +16,7 @@
 
 ## 📖 Sobre 
 
-Este é um projeto desenvolvido no curso de React da **[@Cod3rs](https://www.cod3r.com.br/)**.
+Este é um projeto desenvolvido no curso de React da **[Cod3rs](https://www.cod3r.com.br/)**.
 
 Esse é um projeto do módulo de React Hooks. Ele contém os seguintes hooks: useState, useEffect, useRef, useMemo, useCallback, useContext, useReducer e Hooks personalizados.
 
