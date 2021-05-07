@@ -26,10 +26,10 @@ Esse é um projeto do módulo de React Hooks. Ele contém os seguintes hooks: us
 
 O projeto está desenvolvido utilizando as seguintes tecnologias:
 
-- HTML
-- CSS
+- React
 - JavaScript
-- React 
+- CSS
+- HTML
 
 --- 
 
